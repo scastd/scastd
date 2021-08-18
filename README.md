@@ -23,8 +23,8 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd&show_icons=true&theme=onedark&title_color=ff7b00&text_color=bfbfbf&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="scastd" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scastd&count_private=true&theme=onedark&title_color=ff7b00&text_color=bfbfbf&hide_border=true&cache_seconds=1800&locale=en)](https://github.com/scastd/github-readme-stats)
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scastd&show_icons=true&theme=onedark&title_color=ff7b00&text_color=bfbfbf&hide_border=true&cache_seconds=1800&locale=en" alt="scastd" /></p>
+[![scastd's GitHub stats](https://github-readme-stats.vercel.app/api?username=scastd&count_private=true&show_icons=true&theme=onedark&title_color=ff7b00&text_color=bfbfbf&hide_border=true&cache_seconds=1800&locale=en)](https://github.com/scastd/github-readme-stats)
