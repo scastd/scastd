@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying **Computer Engineering**
 - 🌱 I’m currently learning **Javascript, Vue.js**
 - 💬 Ask me about **Java, C**
-- 📫 How to reach me **scastd00@estudientes.unileon.es**
+- 📫 How to reach me **scastd00@gmail.com**
 
 <br />
 
@@ -104,19 +104,19 @@
 	<h2>🏆 Github Profile Trophy</h2>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img width=400 src="https://github-profile-trophy.vercel.app/?username=scastd00&row=2&column=3&theme=radical&margin-w=6&margin-h=6&no-frame=true&title=Commit,Followers,Repositories"/>
+	<img width=400 src="https://github-profile-trophy.vercel.app/?username=scastd&row=2&column=3&theme=radical&margin-w=6&margin-h=6&no-frame=true&title=Commit,Followers,Repositories"/>
 </a>
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scastd00&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scastd&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=scastd00&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true" alt="scastd00" />
+	<img src="https://github-readme-stats.vercel.app/api?username=scastd&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true" alt="scastd" />
 </p>
 
 <p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&theme=radical&hide_border=true&locale=en&langs_count=7" alt="scastd00" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd&theme=radical&hide_border=true&locale=en&langs_count=7" alt="scastd" />
 </p>
 
 <!--START_SECTION:waka-->
