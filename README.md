@@ -11,15 +11,14 @@
 </p>
 
 - 🔭 I’m currently studying **Computer Engineering**
-- 🌱 I’m currently learning **Javascript, Vue.js**
 - 💬 Ask me about **Java, C**
-- 📫 How to reach me **scastd00@gmail.com**
+- 📫 How to reach me **scastd@gmail.com**
 
 ### Connect with me:
 
-![Gmail](https://img.shields.io/badge/Gmail%20-%20scastd00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail%20-%20scastd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samuelete_26/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scastd/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Samuelete_26)
 [![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13071730/samuel-castrillo-dom%c3%adnguez)
 
@@ -37,18 +36,19 @@
 
 ### 👨‍💻 Programming languages
 
-[![MIPS Assembly](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=flat-square&logo=asm-hex&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Aassembly)
-[![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Abash)
-[![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ac)
-[![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Acpp)
-[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Acss)
-[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ahtml)
-[![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ajava)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://github.com/search?q=user%3Ascastd00+language%3Ajavascript)
-[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Amarkdown)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ajavascript)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat-square&logo=ruby&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Aruby)
-[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Asql)
+[![MIPS Assembly](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=flat-square&logo=asm-hex&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Aassembly)
+[![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Abash)
+[![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Ac)
+[![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Acpp)
+[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Acss)
+[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Ahtml)
+[![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Ajava)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://github.com/search?q=user%3Ascastd+language%3Ajavascript)
+[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Amarkdown)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Ajavascript)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Apython)
+[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Asql)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/search?q=user%3Ascastd+language%3Atypescript)
 
 ### 🧰 Frameworks and libraries
 
@@ -57,7 +57,11 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 
